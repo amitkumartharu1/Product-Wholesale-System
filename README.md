@@ -2,7 +2,7 @@
 
 A console-based Python application designed to manage product wholesale operations, including inventory handling, sales tracking, return management, and promotional offers such as "Buy 3 Get 1 Free." This project is built with file handling and basic data structures, making it lightweight and efficient for small vendors.
 
-## 📌 Features
+##Features
 
 - 🔍 View available products and their stock
 - 📦 Purchase and return items
@@ -12,7 +12,7 @@ A console-based Python application designed to manage product wholesale operatio
 - ⏳ Track stock quantity and update on purchase/return
 - ✅ Simple menu-driven interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** Python
 - **Concepts:** File Handling, Conditional Logic, Functions, Loops, Data Structures (Lists, Dictionaries)
@@ -29,7 +29,7 @@ bash
 Copy
 Edit
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
@@ -41,12 +41,12 @@ bash
 Copy
 Edit
 python product_wholesale.py
-✅ Make sure products.txt exists and contains product data before starting the system.
+Make sure products.txt exists and contains product data before starting the system.
 
 📸 Screenshots
 Add screenshots here (optional)
 
-📌 Future Improvements
+Future Improvements
 GUI Integration using Tkinter or PyQt
 
 Integration with a database (e.g., SQLite or MySQL)
@@ -58,5 +58,5 @@ Sales analytics and charts
 👨‍💻 Author
 Amit Kumar Tharu
 📍 Nepal
-📧 [YourEmail@example.com]
-📂 [Portfolio / LinkedIn / YouTube (optional)]
+📧 tharuamitkumar5@gmail.com
+📂 https://www.linkedin.com/in/amit-kumar-tharu-2b4a711b0/
